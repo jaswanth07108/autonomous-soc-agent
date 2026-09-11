@@ -88,19 +88,13 @@ $$\mathbf{GOAL} \longrightarrow \mathbf{OBSERVE} \longrightarrow \mathbf{HYPOTHE
 
 ---
 
-## 🎥 Deliverable 4: 3–5 Minute Demo Video Structure
+## 🎥 Deliverable 4: 3–5 Minute Demo Video
 
-### Where to Post Your Demo Video:
-1. **YouTube (Recommended)**:
-   - Upload video $\rightarrow$ set Visibility to **Unlisted** (or **Public**).
-   - *Why*: Fast streaming for judges, universally accessible, no download required.
-2. **Google Drive (Alternative)**:
-   - Upload `.mp4` file.
-   - **MUST DO**: Under General Access, change from "Restricted" to **"Anyone with the link can view"**.
-3. **Loom / Vimeo**:
-   - Provide direct shareable link.
+▶️ **Google Drive Link**: `https://drive.google.com/your-demo-video-link-here` *(Replace with your Google Drive share link)*
 
-### Minute-by-Minute Video Recording Guide (3:30 Total):
+> **CRITICAL**: Ensure Google Drive General Access is set to **"Anyone with the link can view"** (Viewer permission) so judges can watch without encountering permission denied screens.
+
+### Minute-by-Minute Video Walkthrough (3:30 Total):
 * **0:00 – 0:40 | Introduction & Problem**:
   * State team name, hackathon (Tech Zephyr 4.0, IIT Bhubaneswar), and Problem Statement 9.
   * Explain why traditional SOCs fail (alert fatigue, fixed playbooks, static chatbots).

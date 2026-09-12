@@ -17,7 +17,7 @@ $$\mathbf{GOAL} \longrightarrow \mathbf{OBSERVE} \longrightarrow \mathbf{PLAN} \
 
 ## 🎥 3–5 Minute Demo Video
 
-▶️ **[Click Here to Watch the Demo Video on Google Drive](https://drive.google.com/your-demo-video-link-here)**
+▶️ **[Click Here to Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1WFjr_cEy7Ov5L1GSmViUykJf2-T9e-j4/view?usp=drive_link)**
 
 > *Note for Judges: The video walks through the complete autonomous investigation cycle, dynamic tool planning, early termination on benign telemetry, real-time MFA adaptation, and firewall failure recovery.*
 

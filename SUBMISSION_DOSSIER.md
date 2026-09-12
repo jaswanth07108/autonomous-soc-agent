@@ -90,9 +90,9 @@ $$\mathbf{GOAL} \longrightarrow \mathbf{OBSERVE} \longrightarrow \mathbf{HYPOTHE
 
 ## 🎥 Deliverable 4: 3–5 Minute Demo Video
 
-▶️ **Google Drive Link**: `https://drive.google.com/your-demo-video-link-here` *(Replace with your Google Drive share link)*
+▶️ **Google Drive Link**: `https://drive.google.com/file/d/1WFjr_cEy7Ov5L1GSmViUykJf2-T9e-j4/view?usp=drive_link`
 
-> **CRITICAL**: Ensure Google Drive General Access is set to **"Anyone with the link can view"** (Viewer permission) so judges can watch without encountering permission denied screens.
+> **Note**: Access is set to **"Anyone with the link can view"** so judges can stream the walkthrough directly without authentication barriers.
 
 ### Minute-by-Minute Video Walkthrough (3:30 Total):
 * **0:00 – 0:40 | Introduction & Problem**:
